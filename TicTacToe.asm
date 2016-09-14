@@ -53,7 +53,7 @@ DrawWinPath			PROTO l_param1:BYTE, h_param2:BYTE, l_param_3:BYTE, h_param4:BYTE,
 	
 	exitProgram: exit
 	main ENDP
-			
+	
 	DisplayMenu PROC
 	;**********************************************************************************
 	;Description - displays a menu that promps the user to select one of four options
